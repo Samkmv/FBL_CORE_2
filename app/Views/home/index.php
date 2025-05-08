@@ -78,13 +78,13 @@
                 }">
                             <div class="swiper-wrapper">
                                 <div class="swiper-slide">
-                                    <img src="assets/img/products/7.jpg" class="rtl-flip" alt="Image">
+                                    <img src="assets/img/slider/1.png" class="rtl-flip" alt="Image">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="assets/img/products/6.jpg" class="rtl-flip" alt="Image">
+                                    <img src="assets/img/slider/2.png" class="rtl-flip" alt="Image">
                                 </div>
                                 <div class="swiper-slide">
-                                    <img src="assets/img/products/4.jpg" class="rtl-flip" alt="Image">
+                                    <img src="assets/img/slider/3.png" class="rtl-flip" alt="Image">
                                 </div>
                             </div>
                         </div>
@@ -144,7 +144,7 @@
                     <div class="swiper-slide swiper-slide-active" style="width: 306px; margin-right: 24px;" role="group" aria-label="1 / 6" data-swiper-slide-index="0">
                         <div class="animate-underline">
                             <div class="position-absolute top-0 start-0 z-2 mt-2 mt-sm-3 ms-2 ms-sm-3">
-                                <span class="badge text-bg-danger">-13%</span>
+                                <span class="badge text-bg-danger">SALE</span>
                             </div>
                             <a class="ratio ratio-1x1 d-block mb-3" href="shop-product-furniture.html">
                                 <img src="assets/img/products/1.jpg" class="hover-effect-target opacity-100" alt="Product">
@@ -189,7 +189,7 @@
                     <div class="swiper-slide swiper-slide-active" style="width: 306px; margin-right: 24px;" role="group" aria-label="1 / 6" data-swiper-slide-index="0">
                         <div class="animate-underline">
                             <div class="position-absolute top-0 start-0 z-2 mt-2 mt-sm-3 ms-2 ms-sm-3">
-                                <span class="badge text-bg-danger">-13%</span>
+                                <span class="badge text-bg-danger">SALE</span>
                             </div>
                             <a class="ratio ratio-1x1 d-block mb-3" href="shop-product-furniture.html">
                                 <img src="assets/img/products/8.jpg" class="hover-effect-target opacity-100" alt="Product">

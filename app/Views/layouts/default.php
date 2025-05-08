@@ -34,8 +34,6 @@
     <link rel="preload" href="<?= base_url('/assets/default/css/theme.rtl.min.css') ?>" as="style">
     <link rel="stylesheet" href="<?= base_url('/assets/default/css/theme.min.css') ?>" id="theme-styles">
 
-    <!-- Customizer -->
-    <script src="<?= base_url('/assets/default/js/customizer.min.js') ?>"></script>
 </head>
 
 
@@ -44,7 +42,7 @@
 
 <nav class="offcanvas offcanvas-start" id="navbarNav" tabindex="-1" aria-labelledby="navbarNavLabel">
     <div class="offcanvas-header py-3">
-        <h5 class="offcanvas-title" id="navbarNavLabel">Меню</h5>
+        <h5 class="offcanvas-title" id="navbarNavLabel">Навигация</h5>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
     </div>
     <div class="offcanvas-body pt-0 pb-3">
@@ -99,7 +97,7 @@
     <div class="offcanvas-header flex-column align-items-start d-md-none">
         <a class="btn btn-lg btn-outline-secondary w-100 rounded-pill" href="account-signin.html">
             <i class="ci-user fs-lg ms-n1 me-2"></i>
-            Account
+            Аккаунт
         </a>
     </div>
 </nav>
